@@ -12,6 +12,8 @@ Sandbox index page for testing login/amplify model output/testing JWT/IAM reques
 
 ![picture 1](images/67b591b2371710544797567dddb39f1a48ee864f03d887e1569768ed6c5e897e.png)  
 
+NuxtJs + Vue 2.x + user pool integration with amplify version is here:
+https://github.com/stokilo/sst-frontend-plus-cognito-nuxtjs
 
 Note: all credentials for this setup are stored under single AWS secret with name:
 
